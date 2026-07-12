@@ -1,0 +1,6 @@
+{
+  "name": "Veges",
+  "description": "متجر ملابس إلكتروني راقي في سيدي بلعباس - أحدث صيحات الموضة الرجالية والنسائية والدفع عند الاستلام مع إمكانية الطلب عبر الواتساب والاتصال.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
